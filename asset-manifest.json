@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reatTodoAPP/static/css/main.ea7984ec.css",
+    "main.js": "/reatTodoAPP/static/js/main.58c9cf81.js",
+    "static/js/787.28cb0dcd.chunk.js": "/reatTodoAPP/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/reatTodoAPP/index.html",
+    "main.ea7984ec.css.map": "/reatTodoAPP/static/css/main.ea7984ec.css.map",
+    "main.58c9cf81.js.map": "/reatTodoAPP/static/js/main.58c9cf81.js.map",
+    "787.28cb0dcd.chunk.js.map": "/reatTodoAPP/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ea7984ec.css",
+    "static/js/main.58c9cf81.js"
+  ]
+}
